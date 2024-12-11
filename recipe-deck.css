@@ -1,0 +1,22 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+a {
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 50px;
+    color: white;
+}
+
+#cookies {
+    background-color: rgb(57,7,9);
+}
+
+#salad {
+    background-color: rgb(108,133,6)
+}
+#tomatoSoup {
+    background-color: rgb(223,57,5)
+}
